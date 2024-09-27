@@ -1,0 +1,3 @@
+D:/c++Programs/Discrete Mathematics/ExpressionTruthTable/cmake-build-debug/CMakeFiles/ExpressionTruthTable.dir
+D:/c++Programs/Discrete Mathematics/ExpressionTruthTable/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c++Programs/Discrete Mathematics/ExpressionTruthTable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
