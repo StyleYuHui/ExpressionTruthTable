@@ -1,0 +1,11 @@
+# ninja log v5
+19	63	7365227516927433	CMakeFiles/ExpressionTruthTable.dir/demo.cpp.obj	5a31b7907cb9cd32
+26	319	7369180196276295	CMakeFiles/ExpressionTruthTable.dir/main.cpp.obj	33ba060f8da7ef8c
+319	405	7369180197107112	ExpressionTruthTable.exe	b4b42e11b2c25878
+15	140	7381790252097767	CMakeFiles/ExpressionTruthTable.dir/demo.cpp.obj	1281e9b5aff6068
+12	378	7381790254480099	CMakeFiles/ExpressionTruthTable.dir/main.cpp.obj	28a71ab71757525
+378	607	7381790256731989	ExpressionTruthTable.exe	b4b42e11b2c25878
+11	322	7381790563368932	CMakeFiles/ExpressionTruthTable.dir/main.cpp.obj	28a71ab71757525
+322	410	7381790564216502	ExpressionTruthTable.exe	b4b42e11b2c25878
+14	332	7381790717573900	CMakeFiles/ExpressionTruthTable.dir/main.cpp.obj	28a71ab71757525
+332	416	7381790718403191	ExpressionTruthTable.exe	b4b42e11b2c25878

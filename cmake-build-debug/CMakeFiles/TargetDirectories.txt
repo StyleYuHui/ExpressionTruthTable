@@ -1,0 +1,3 @@
+D:/Users/31007/Desktop/ExpressionTruthTable-master/cmake-build-debug/CMakeFiles/ExpressionTruthTable.dir
+D:/Users/31007/Desktop/ExpressionTruthTable-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/31007/Desktop/ExpressionTruthTable-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
